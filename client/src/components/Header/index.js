@@ -21,7 +21,7 @@ function Header() {
       </TopNavLeft>
       {/* Nav Center */}
       <TopNavCenter>
-        <input type="text" placeholder="Pesquisar" />
+        <input type="text" placeholder="Pesquisar em meu grupo do slack" />
         <article>
           <article>
             <Settings />

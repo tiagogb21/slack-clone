@@ -4,7 +4,7 @@ import { HiOutlinePencilAlt } from "react-icons/hi";
 
 export const Container = styled.div`
   height: 93vh;
-  width: 290px;
+  width: 280px;
   display: flex;
   flex-direction: column;
   overflow-y: auto;
@@ -47,6 +47,7 @@ export const PencilAlt = styled(HiOutlinePencilAlt)`
   height: 35px;
   color: var(--bd-purple);
   padding: 5px;
+  border-radius: 50%;
   background: white;
   &:hover {
     cursor: pointer;
