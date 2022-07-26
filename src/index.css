@@ -129,5 +129,13 @@ table {
 }
 
 * {
+  font-family: "Lato", sans-serif;
   box-sizing: border-box;
+  /* Variables */
+  --bd-bold-purple: rgb(53, 13, 54);
+  --bd-purple: rgb(64, 30, 64);
+  --bd-light-purple: rgb(93, 61, 94);
+  --light-gray: #bcadbd;
+  --light-low-gray: #c0bdc0;
+  --white: rgb(255, 255, 255);
 }
